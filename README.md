@@ -2,7 +2,7 @@
 
 ### Follow the instructions below to run the application.
 ### `git clone https://github.com/RaiyanKhalil/factorial-calculator.git `
-### `cd factorial-calculator`
+### `cd factorial-calculator/`
 ### `npm install`
 ### `npm start`
 
